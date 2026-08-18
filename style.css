@@ -1177,3 +1177,98 @@ h2 {
         grid-row: span 1;
     }
 }
+
+/* =========================================
+   REGISTRATION CERTIFICATE
+   ========================================= */
+
+.registration {
+    background: var(--off-white);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+}
+
+.registration-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 90px;
+    align-items: center;
+}
+
+.registration-image {
+    max-width: 480px;
+}
+
+.registration-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--border);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
+    background: var(--white);
+}
+
+.registration-content {
+    max-width: 540px;
+}
+
+.registration-content h2 {
+    margin-bottom: 25px;
+}
+
+.registration-content > p:not(.certificate-note) {
+    color: var(--muted);
+    font-size: 18px;
+    line-height: 1.75;
+    margin-bottom: 18px;
+}
+
+.certificate-note {
+    color: var(--green);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 28px;
+}
+
+
+/* ---------- Certificate Responsive ---------- */
+
+@media (max-width: 900px) {
+
+    .registration-grid {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+
+    .registration-image {
+        max-width: 520px;
+    }
+}
+
+
+@media (max-width: 650px) {
+
+    .registration-grid {
+        gap: 35px;
+    }
+
+    .registration-content > p:not(.certificate-note) {
+        font-size: 17px;
+    }
+}
+
+.registration-image a {
+    display: block;
+}
+
+.registration-image a:hover img {
+    opacity: 0.92;
+}
+
+.certificate-click {
+    margin-top: 12px;
+    color: var(--green);
+    font-size: 12px;
+    text-align: center;
+}
