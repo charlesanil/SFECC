@@ -1272,3 +1272,108 @@ h2 {
     font-size: 12px;
     text-align: center;
 }
+
+/* =========================================
+   SUPPORT SFECC / BANK DETAILS
+   ========================================= */
+
+.support {
+    background: var(--white);
+    border-top: 1px solid var(--border);
+}
+
+.support-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 90px;
+    align-items: start;
+}
+
+.support-description {
+    max-width: 560px;
+    color: var(--muted);
+    font-size: 18px;
+    line-height: 1.75;
+    margin-top: 25px;
+}
+
+.bank-details {
+    background: var(--off-white);
+    border: 1px solid var(--border);
+    padding: 32px 35px;
+}
+
+.bank-details h3 {
+    color: var(--green-dark);
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 22px;
+}
+
+.bank-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    padding: 15px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.bank-row span {
+    color: var(--muted);
+    font-size: 14px;
+}
+
+.bank-row strong {
+    color: var(--green-dark);
+    font-size: 15px;
+    font-weight: 600;
+    text-align: right;
+}
+
+.bank-note {
+    color: #7b857e;
+    font-size: 12px;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+
+/* ---------- Support Responsive ---------- */
+
+@media (max-width: 900px) {
+
+    .support-grid {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+
+    .bank-details {
+        max-width: 600px;
+    }
+}
+
+
+@media (max-width: 650px) {
+
+    .support-description {
+        font-size: 17px;
+    }
+
+    .bank-details {
+        padding: 25px 22px;
+    }
+
+    .bank-row {
+        display: block;
+    }
+
+    .bank-row span {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .bank-row strong {
+        display: block;
+        text-align: left;
+    }
+}
