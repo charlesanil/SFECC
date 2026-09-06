@@ -1,74 +1,66 @@
 [
   {
-    "sl": 1,
     "caseNo": "OA 201/2025",
+    "caseTitle": "",
     "bench": "SZ?",
-    "registrationDate": "2025-10-09",
-    "caseTitle": "To be updated...",
     "district": "KINNIGOLI",
-    "status": "Pending"
+    "status": "Pending",
+    "registrationDate": "2025-10-09"
   },
   {
-    "sl": 2,
     "caseNo": "OA 86/2025",
-    "bench": "SZ",
-    "registrationDate": "2025-11-04",
     "caseTitle": "non-compliance of the Solid Waste Management Rules, 2016 , railway & NHAI",
-    "district": "",
-    "status": "Pending"
-  },
-  {
-    "sl": 3,
-    "caseNo": "OA 72/2025",
-    "bench": "SZ?",
-    "registrationDate": "2025-04-16",
-    "caseTitle": "sand mining activities are being carried out in the Gurupura River, located in Dakshina Kannada District, Karnataka, withou",
-    "district": "Dakshina Kannada",
-    "status": "Pending"
-  },
-  {
-    "sl": 4,
-    "caseNo": "OA 18/2025",
-    "bench": "SZ?",
-    "registrationDate": "2025-01-16",
-    "caseTitle": "To be updated...",
-    "district": "",
-    "status": "Pending"
-  },
-  {
-    "sl": 5,
-    "caseNo": "IA 2/2026 (Original Application No. 151/2023)",
     "bench": "SZ",
-    "registrationDate": "2026-09-01",
-    "caseTitle": "SUO MOTU FLOW OF INDUSTRIAL EFFLUENTS INTO PHALGUNI RESULTS IN FISH KILL VS STATE OF KARNATAKA",
-    "district": "Dakshina Kannada",
-    "status": "Pending"
-  },
-  {
-    "sl": 6,
-    "caseNo": "OA 193/2023",
-    "bench": "SZ?",
-    "registrationDate": "2023-12-20",
-    "caseTitle": "TRIBUNAL ON ITS OWN MOTION IN THE MATTER OF LETTER PETITION RECEIVED FROM K GNANASUDHA REG ILLEGAL OCCUPATION OF LANDS AND DAMAGING PUBLIC PROPERTY AND NATURAL RESOURCES VS SPECIAL CHIEF SECRETARY TO GOVT. OF ANDHRA PRADESH DEPARTMENT OF ENVIRONMENT FOREST SCIENCE AND TECHNOLOGY",
     "district": "",
-    "status": "DISPOSED"
+    "status": "Pending",
+    "registrationDate": "2025-11-04"
   },
   {
-    "sl": 7,
+    "caseNo": "OA 72/2025",
+    "caseTitle": "sand mining activities are being carried out in the Gurupura River, located in Dakshina Kannada District, Karnataka, withou",
+    "bench": "SZ?",
+    "district": "Dakshina Kannada",
+    "status": "Pending",
+    "registrationDate": "2025-04-16"
+  },
+  {
+    "caseNo": "OA 18/2025",
+    "caseTitle": "",
+    "bench": "SZ?",
+    "district": "",
+    "status": "Pending",
+    "registrationDate": "2025-01-16"
+  },
+  {
+    "caseNo": "IA 2/2026 (Original Application No. 151/2023)",
+    "caseTitle": "SUO MOTU FLOW OF INDUSTRIAL EFFLUENTS INTO PHALGUNI RESULTS IN FISH KILL VS STATE OF KARNATAKA",
+    "bench": "SZ",
+    "district": "Dakshina Kannada",
+    "status": "Pending",
+    "registrationDate": "2026-09-01"
+  },
+  {
+    "caseNo": "OA 193/2023",
+    "caseTitle": "TRIBUNAL ON ITS OWN MOTION IN THE MATTER OF LETTER PETITION RECEIVED FROM K GNANASUDHA REG ILLEGAL OCCUPATION OF LANDS AND DAMAGING PUBLIC PROPERTY AND NATURAL RESOURCES VS SPECIAL CHIEF SECRETARY TO GOVT. OF ANDHRA PRADESH DEPARTMENT OF ENVIRONMENT FOREST SCIENCE AND TECHNOLOGY",
+    "bench": "SZ?",
+    "district": "",
+    "status": "DISPOSED",
+    "registrationDate": "2023-12-20"
+  },
+  {
     "caseNo": "OA 258/2024",
-    "bench": "SZ?",
-    "registrationDate": "2024-09-17",
     "caseTitle": "NEWS ITEM TITLED PAVOOR ULIYA KUDRU SHRINKING DUE TO ILLEGAL SAND MINING LOGALS DEMAND JUSTICE APPEARING IN UDAYAVANI DATED 25 06 2024 VS CENTRAL POLLUTION CONTROL BOARD THROUGH ITS MEMBER SECRETARY",
+    "bench": "SZ?",
     "district": "Dakshina Kannada",
-    "status": "Pending"
+    "status": "Pending",
+    "registrationDate": "2024-09-17"
   },
   {
-    "sl": 8,
     "caseNo": "EP 3/2025",
-    "bench": "SZ?",
-    "registrationDate": "2025-11-14",
     "caseTitle": "This Execution Application is filed for implementing the directions dated 16.12.2024 issued by this Tribunal in O.A. No.275 of 2024(SZ), alleging that the National Green Policy has not been complied with by the National Highway Authority of India",
+    "bench": "SZ?",
     "district": "Dakshina Kannada",
-    "status": "PENDING"
+    "status": "PENDING",
+    "registrationDate": "2025-11-14"
   }
 ]
