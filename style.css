@@ -1900,3 +1900,41 @@ h2 {
     object-position: top;
     display: block;
 }
+
+/* Organisation Clarification */
+
+.organisation-note {
+    background: var(--off-white);
+    border-top: 1px solid #e5d6d6;
+    border-bottom: 1px solid #e5d6d6;
+    padding: 20px 0;
+}
+
+.organisation-note p {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #7a3030;
+}
+
+.organisation-note strong {
+    color: #6b2525;
+}
+
+/* About Page Hero */
+
+.about-page-hero {
+    padding-bottom: 55px;
+}
+
+.organisation-note a {
+    color: #6b2525;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.organisation-note a:hover {
+    text-decoration: underline;
+}
