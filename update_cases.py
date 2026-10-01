@@ -7,7 +7,7 @@ from openpyxl import load_workbook
 
 # Project paths
 PROJECT_ROOT = Path(__file__).resolve().parent
-EXCEL_FILE = PROJECT_ROOT / "data" / "SFECC_Environmental_Case_Tracker_v1.xlsx"
+EXCEL_FILE = PROJECT_ROOT / "data" / "SFECC_Environmental_Case_Tracker_v2.xlsx"
 JSON_FILE = PROJECT_ROOT / "data" / "ngt-cases.json"
 
 

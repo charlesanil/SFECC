@@ -1,8 +1,8 @@
 [
   {
     "caseNo": "OA 201/2025",
-    "caseTitle": "",
-    "bench": "SZ?",
+    "caseTitle": "Sewage Pollution",
+    "bench": "SZ",
     "district": "KINNIGOLI",
     "status": "Pending",
     "registrationDate": "2025-10-09"
@@ -18,7 +18,7 @@
   {
     "caseNo": "OA 72/2025",
     "caseTitle": "sand mining activities are being carried out in the Gurupura River, located in Dakshina Kannada District, Karnataka, withou",
-    "bench": "SZ?",
+    "bench": "SZ",
     "district": "Dakshina Kannada",
     "status": "Pending",
     "registrationDate": "2025-04-16"
@@ -26,7 +26,7 @@
   {
     "caseNo": "OA 18/2025",
     "caseTitle": "",
-    "bench": "SZ?",
+    "bench": "SZ",
     "district": "",
     "status": "Pending",
     "registrationDate": "2025-01-16"
@@ -40,17 +40,17 @@
     "registrationDate": "2026-09-01"
   },
   {
-    "caseNo": "OA 193/2023",
-    "caseTitle": "TRIBUNAL ON ITS OWN MOTION IN THE MATTER OF LETTER PETITION RECEIVED FROM K GNANASUDHA REG ILLEGAL OCCUPATION OF LANDS AND DAMAGING PUBLIC PROPERTY AND NATURAL RESOURCES VS SPECIAL CHIEF SECRETARY TO GOVT. OF ANDHRA PRADESH DEPARTMENT OF ENVIRONMENT FOREST SCIENCE AND TECHNOLOGY",
-    "bench": "SZ?",
+    "caseNo": "OA 193/2025",
+    "caseTitle": "Sewage Pollution",
+    "bench": "SZ",
     "district": "",
     "status": "DISPOSED",
-    "registrationDate": "2023-12-20"
+    "registrationDate": "05-09.-2025"
   },
   {
     "caseNo": "OA 258/2024",
     "caseTitle": "NEWS ITEM TITLED PAVOOR ULIYA KUDRU SHRINKING DUE TO ILLEGAL SAND MINING LOGALS DEMAND JUSTICE APPEARING IN UDAYAVANI DATED 25 06 2024 VS CENTRAL POLLUTION CONTROL BOARD THROUGH ITS MEMBER SECRETARY",
-    "bench": "SZ?",
+    "bench": "SZ",
     "district": "Dakshina Kannada",
     "status": "Pending",
     "registrationDate": "2024-09-17"
@@ -58,9 +58,25 @@
   {
     "caseNo": "EP 3/2025",
     "caseTitle": "This Execution Application is filed for implementing the directions dated 16.12.2024 issued by this Tribunal in O.A. No.275 of 2024(SZ), alleging that the National Green Policy has not been complied with by the National Highway Authority of India",
-    "bench": "SZ?",
+    "bench": "SZ",
     "district": "Dakshina Kannada",
     "status": "PENDING",
     "registrationDate": "2025-11-14"
+  },
+  {
+    "caseNo": "AP 18/2025",
+    "caseTitle": "Kharland Petition",
+    "bench": "SZ",
+    "district": "Dakshina Kannada",
+    "status": "",
+    "registrationDate": "2025-03-22"
+  },
+  {
+    "caseNo": "CCC/401/2026",
+    "caseTitle": "Tree Authority Not established in Karnataka",
+    "bench": "HC",
+    "district": "Entire Karnataka State",
+    "status": "",
+    "registrationDate": "2026-01-09"
   }
 ]
